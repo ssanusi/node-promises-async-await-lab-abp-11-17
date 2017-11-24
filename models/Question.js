@@ -38,7 +38,7 @@ class Question {
       }, 1500)
     })
 
-      
+
 
   }
 
